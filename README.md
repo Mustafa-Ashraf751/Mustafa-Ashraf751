@@ -14,7 +14,7 @@
 - 🌱 **Currently learning:** Advanced microservices architecture and cloud deployment
 - 👯 **Looking to collaborate on:** Open source projects and innovative web applications
 - 💬 **Ask me about:** Full-stack development, system design, and algorithm optimization
-- 📫 **Reach me at:** mustafa.ashraf.tech@outlook.com
+- 📫 **Reach me at:** mustafa.ashraf.selim@outlook.com
 - ⚡ **Fun fact:** Solved 150+ algorithm problems on LeetCode and built 10+ production-ready projects!
 
 ## 🛠️ Technical Stack
